@@ -1,4 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## on camera option on dashboard :
+
+
+
+----Note: we need first to run deeplearning files first before we run the react codes
+
+
 
 ## Getting Started
 
@@ -44,4 +51,5 @@ after run on the browser the first page will be login page .. we need to fill th
 
 
 
-and now the project is running successfully .
+
+and now the project is running successfully ..
