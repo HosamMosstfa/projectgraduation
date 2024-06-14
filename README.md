@@ -13,7 +13,7 @@ First :-
 after download the project we need to do some things :
 
 
-1- we neet to run <npm i> and after download ..
+1- we need to run <npm i> and after download ..
 
 
 2- we need to add file to project files name it {.env} and after this we need to add the following
