@@ -1,0 +1,10 @@
+.container {
+  background-color: var(--bgSoft);
+  padding: 10px;
+  border-radius: 10px;
+  height: fit-content;
+  display: flex;
+  gap: 20px;
+  width: fit-content;
+  margin-top: 1rem;
+}
