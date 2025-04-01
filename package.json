@@ -1,11 +1,14 @@
 {
+  "homepage": "https://HosamMosstfa.github.io/projectgraduation",
   "name": "nextadmingithubstarter",
   "version": "0.1.0",
   "private": true,
-  "proxy":"http://127.0.0.1:5000",
+  "proxy": "http://127.0.0.1:5000",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -23,6 +26,7 @@
   },
   "devDependencies": {
     "eslint": "8",
-    "eslint-config-next": "14.0.1"
+    "eslint-config-next": "14.0.1",
+    "gh-pages": "^6.3.0"
   }
 }
